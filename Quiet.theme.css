@@ -1,0 +1,100 @@
+//META{"name":"Quiet-Fork","description":"Dark and Quiet. Easy on the eyes.","author":"Lil Monster","version":"0.0"}*//
+/* IMPORT CSS FROM GITHUB */
+@import url("https://ellexidecodes.github.io/Discord-Themes/css/quiet.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Old%20Reborn.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Large%20Reactions.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Material%20Embeds.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Weed.css");
+@import "https://ellexidecodes.github.io/Discord-Themes/addons/slideDownStatus.css";
+@import "https://ellexidecodes.github.io/Discord-Themes/addons/chatBubbles.css";
+
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== ROOT VARIABLES =====
+*/
+:root {
+ --main-color: rgb(142,0,49);
+ --hover-color: rgb(112,0,40);
+ --home-size:28px;
+ --roundness:3px;
+ }
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BIT.LY/DEREALISED
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+.theme-dark,
+.appMount-3VJmYg {
+  --quaternary-color: rgb(25,25,26) !important;
+  --primary-color: rgb(31,31,33) !important;
+}
+/*BD EDITS*/
+.scroller-2wx7Hm {
+  box-shadow: none;
+}
+.theme-dark .headerBar-UHpsPw, .header-2o-2hj, .inner-zqa7da, .container-2Thooq, .guildInner-3DSoA4 {
+    background:var(--primary-color) !important;
+}
+.accountDetails-3k9g4n .username {
+    font-family: Satisfy;
+    font-size:17px;
+}
+.guildsWrapper-5TJh6A .guilds-1q_RqH>.guild-1EfMGQ:first-child .guildInner-3DSoA4 {
+    background-color: var(--primary-color) !important;
+}
+* {
+  text-shadow:none !important;
+}
+.theme-dark .guildsWrapper-5TJh6A {
+    background-color:var(--quaternary-color) !important;
+}
+.newMessagesBar-mujexs button:last-child {
+    color: white !important;
+}
+.container-2Rl01u:hover, .header-2o-2hj:hover, .guildsWrapper-5TJh6A .guilds-1q_RqH>.guild-1EfMGQ:first-child .guildInner-3DSoA4:hover {
+  background:var(--quaternary-color) !important;
+}
+.guildsWrapper-5TJh6A .guilds-1q_RqH>.guild-1EfMGQ:first-child .guildInner-3DSoA4 {
+  width:76px !important;
+}
+.guildsWrapper-5TJh6A {
+    width: 76px;
+}
+/*Search Bar Background*/
+.search .search-bar {
+  border:3px solid var(--quaternary-color) !important;
+  height: 35px;
+  border-radius: 3px;
+}
+.theme-dark .search .DraftEditor-root {
+    line-height:24px !important;
+}
+/*Settings Sidebar*/
+.ui-standard-sidebar-view .sidebar-region, .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
+    background:var(--primary-color) !important;
+}
+.ui-standard-sidebar-view .sidebar-region .sidebar, .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
+    background-color: var(--primary-color) !important;
+}
+.privateChannels-1nO12o .searchBar-6Kv8R2 {
+    background: var(--primary-color);
+}
+.theme-dark .guild-1EfMGQ .guildIcon-CT-ZDq {
+  margin-left:4px !important;
+}
+/*Search Bar Background*/
+.search .search-bar {
+  border:3px solid var(--quaternary-color) !important;
+  height: 35px;
+  border-radius: 3px;
+}
+.theme-dark .search .DraftEditor-root {
+    line-height:20px !important;
+    margin-left:-10px !important;
+}
+.theme-dark .search .search-bar .public-DraftEditorPlaceholder-root {
+    color:rgba(255,255,255,0.5) !important;
+    text-shadow:none !important;
+}
