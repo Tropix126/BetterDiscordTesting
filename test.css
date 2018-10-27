@@ -1,5 +1,29 @@
-@import url("https://raw.githubusercontent.com/squee666/Discord-Themes/7a3e9fcceadf37067022b2de246d981b361c074a/css/Quiet.css");
+//META{"name":"Stock Izy Reborn","description":"A nice sleek transparent theme.","author":"Izy","version":"0.0","website":"https://discord.gg/Q8U53Nd"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://raw.githack.com/Tropix126/BetterDiscordTesting/master/base.css");
+/*
+===== IMPORTANT =====
+CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
+===== CUSTOMIZABLE COLORS / IMAGES =====
+*/
 :root {
-  --mc:red;
-  --hc:blue;
-}
+--mc: #cc1444 !important;                                   /*Main Colour*/
+--hc: #770425 !important;                                   /*Hover Colour*/
+--BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/
+--RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/
+--br: 50% !important;                                       /*RoundNess of Icons*/
+ }
+ /*
+===== CREDITS =====
+URI
+POUT
+DINGUS
+BEARDDESIGN
+ZERTHOX
+THESE PEOPLE HAVE HELPED CREATE THIS THEME IN ONE WAY OR THE OTHER.
+===== TROUBLESHOOTING =====
+IF YOU NEED ANY HELP GO TO THE HELP GO TO https://discord.gg/Q8U53Nd
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
