@@ -1,0 +1,44 @@
+//META{"name":"Discord Reborn Fork","description":"A nice sleek transparent theme.","author":"Lil Monster","version":"5.1", "website":"https://discord.gg/8MvRw4"}*//
+/*IMPORT CSS FROM GITHUB*/
+@import url("https://ellexidecodes.github.io/Discord-Themes/css/discord-reborn.css");
+@import url("https://ellexidecodes.github.io/Discord-Themes/addons/friendGrid.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Better%20Outages.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Game%20Grid.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Old%20Reborn.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Weed.css");
+@import url("https://ellexidecodes.github.io/Discord-Themes/addons/iconTabs.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Collapsed%20Dropdown%20Menu.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Old%20Titlebar.css");
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Details%20In%20Margin.css");
+@import "https://ellexidecodes.github.io/Discord-Themes/addons/slideDownStatus.css";
+
+/*
+===== IMPORTANT =====
+CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+===== CUSTOMIZABLE COLORS =====
+*/
+:root {
+  --main-color: #396ac4;
+  --hover-color: #2D549D;
+  --background-image: url(https://imgur.com/RG03PyX.png);
+  --popup-background: url(https://imgur.com/RG03PyX.png);
+  --roundness : 5px;
+  --home-size : 28px;
+}
+/*
+==== CUSTOMIZABLE IMAGES =====
+IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
+RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MATCH. (YOUR CHOICE)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CREDITS =====
+URI
+BEARDDESIGN
+ZERTHOX
+THESE PEOPLE HAVE HELPED CREATE THIS THEME IN ONE WAY OR THE OTHER.
+===== TROUBLESHOOTING =====
+IF YOU NEED ANY HELP GO TO https://discord.gg/g7nf298
+---------------------------------------------------------------------------------------------------------------------------------------------
+/*
