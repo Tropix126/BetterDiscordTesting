@@ -1,7 +1,7 @@
 //META{"name":"Quiet","description":"Dark and Quiet. Easy on the eyes.","author":"Omniscient","version":"0.0"}*//
 
 /* IMPORT CSS FROM GITHUB */
-@import url("https://raw.githack.com/0mniscient/Discord-Themes/541908b795c8936f8e0ca12e901b37908914aad7/css/quiet.css");
+@import url("https://raw.githubusercontent.com/0mniscient/Discord-Themes/814396417582c25a6c367ee8a6444f7e8c48c750/css/Discord%20Reborn.css");
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
@@ -9,8 +9,8 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 ===== CUSTOMIZABLE COLORS =====
 */
 :root { 
- --main-color: #8d2036;
- --hover-color: #6f182a;
+ --main-color: #007dbd;
+ --hover-color: #03679b;
  }
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
